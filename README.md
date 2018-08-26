@@ -1,2 +1,2 @@
 # dotfiles
-✏️ My dotfiles
+ Just your average dotfiles repo. 
