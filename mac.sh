@@ -16,3 +16,6 @@ defaults write com.apple.LaunchServices LSQuarantine -bool false
 
 # Set the icon size of Dock items to 56 pixels
 defaults write com.apple.dock tilesize -int 56
+
+# Tell macos to always show all files in finder
+defaults write com.apple.finder AppleShowAllFiles YES
