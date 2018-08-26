@@ -1,0 +1,11 @@
+"*":
+  "atom-clock":
+    showClockIcon: true
+    showTooltip: true
+  core:
+    disabledPackages: [
+      "background-tips"
+    ]
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "22b45800-f962-4468-af91-dd73f8eb8866"
