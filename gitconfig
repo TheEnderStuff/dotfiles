@@ -1,16 +1,22 @@
 [user]
-	name = Kerr Travers
-  email = kerr@ktrvs.com
-  
-[core]
-	editor = sublime
-  
+  email = kerrtravers6@gmail.com
+  name = kerrtrvs
+
 [credential]
   helper = osxkeychain
-  
+
+[core]
+  editor = atom
+
+[filter "lfs"]
+  clean = git-lfs clean -- %f
+  smudge = git-lfs smudge -- %f
+  process = git-lfs filter-process
+  required = true
+
 [alias]
   b = branch
   c = commit
   cl = clone
   p = push
-  
+  a = add
