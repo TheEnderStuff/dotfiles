@@ -3,14 +3,14 @@
   email = kerr@ktrvs.com
   
 [core]
-	editor = code --wait
+	editor = sublime
   
 [credential]
   helper = osxkeychain
   
 [alias]
-	b = branch
+  b = branch
   c = commit
-	cl = clone
+  cl = clone
   p = push
   
