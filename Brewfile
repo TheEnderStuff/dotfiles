@@ -4,3 +4,4 @@ brew 'wget'
 
 cask 'slack'
 cask 'atom'
+cask 'firefox'
